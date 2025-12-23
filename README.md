@@ -1,10 +1,3 @@
-[![Build Status](https://travis-ci.org/mehrdadrad/mylg.svg?branch=master)](https://travis-ci.org/mehrdadrad/mylg) [![Go Report Card](https://goreportcard.com/badge/github.com/mehrdadrad/mylg)](https://goreportcard.com/report/github.com/mehrdadrad/mylg) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mehrdadrad/mylg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GORef](https://godoc.org/github.com/mehrdadrad/mylg?status.svg)](https://godoc.org/github.com/mehrdadrad/mylg)
-
-![IMAGE](http://mylg.io/wp-content/uploads/2016/08/logo_mylgio_xxsmall.png)
-### myLG, Command line Network Diagnostic Tool
-myLG is an open source software utility which combines the functions of the different network probes in one network diagnostic tool.
-
-
 ## Features
 * Popular looking glasses (ping/trace/bgp): Telia, Level3, NTT, Cogent, KPN
 * More than 200 countries DNS Lookup information
@@ -23,13 +16,6 @@ myLG is an open source software utility which combines the functions of the diff
 * Support vi and emacs mode, almost all basic features
 * CLI auto complete and history features
 
-## Demo
-[![IMAGE Demo](http://mylg.io/img/youtube.jpg)](https://www.youtube.com/watch?v=QY2TAA3ljAA)
-
-![IMAGE ALT TEXT HERE](http://mylg.io/img/packet_analyzer.png)
-![IMAGE ALT TEXT HERE](http://mylg.io/img/mylg_traceroute_realtime_01.png)
-![IMAGE ALT TEXT HERE](http://mylg.io/img/mylg_rt_trace2.gif)
-![IMAGE ALT TEXT HERE](http://mylg.io/img/mylg_rt_trace_web_026.png)
 
 ### Usage
 
@@ -352,14 +338,3 @@ cd $GOPATH/src/github.com/mehrdadrad/mylg/
 go build mylg.go
 ```
 
-## License
-This project is licensed under MIT license. Please read the LICENSE file.
-
-
-## Contribute
-Welcomes any kind of contribution, please follow the next steps:
-
-- Fork the project on github.com.
-- Create a new branch.
-- Commit changes to the new branch.
-- Send a pull request.
